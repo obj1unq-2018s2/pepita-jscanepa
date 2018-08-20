@@ -1,0 +1,11 @@
+import comidas.*
+import pepita.*
+
+
+program abc {
+	pepita.comer(mondongo,3)
+	pepita.comer(alpiste,10)
+	
+	console.println(pepita.cuantoQuiereVolar())
+	
+}
